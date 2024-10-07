@@ -1,0 +1,2 @@
+# Exploring-Dataset-of-4G-LTE-User-Equipment-Measurements-of-Sabon-Gari-Kano
+This dataset contains 4G LTE network measurements from a 7.4 km public transit route in Sabon-Gari, Kano, Nigeria. Collected over 21 days using a Samsung Galaxy A51, it includes throughput, SNR, and other metrics at morning, afternoon, and evening intervals, aiming to improve LTE performance prediction using machine learning.
